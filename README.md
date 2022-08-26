@@ -1,2 +1,2 @@
-# Apenas-soma
-Criado para atividade da faculdade
+# Soma de dois números 
+Criado para atividade da faculdade 
